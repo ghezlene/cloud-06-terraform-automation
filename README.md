@@ -1,3 +1,5 @@
+[← Back to Cloud Engineering Lab](https://github.com/ghezlene/cloud-engineering-lab)
+
 # Terraform Infrastructure as Code Lab
 
 > Define infrastructure in code and make cloud environments repeatable.
@@ -55,3 +57,4 @@ Planned Terraform modules:
 - [ ] Understand state and dependencies.
 - [ ] Provision and destroy infrastructure safely.
 
+[← Back to Cloud Engineering Lab](https://github.com/ghezlene/cloud-engineering-lab)
